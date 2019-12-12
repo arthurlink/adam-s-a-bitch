@@ -1,3 +1,6 @@
+#so, I think I found out how to update stuff from Rstudio. This should be seen if so.
+
+
 ### A.Link 12.11 - Julz code for pre-post analysis
 #I was watching the judiciary committee debate on the articles of impeachments while writing this, pardon if I have jumps in thought or seem inconsistent
 pre.per=c(10,8,7,6,5,7);sum(pre.per);post.per=c(10,10,9,10,8,9);sum(post.per)
