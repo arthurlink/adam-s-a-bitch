@@ -75,3 +75,9 @@ GG=ggplot(Shoe,
   scale_fill_manual(values=c('gray70','black','white'))+
   theme(axis.ticks.x=element_blank(),axis.text.x=element_blank())  
 GG+theme(panel.background = element_blank(),axis.line=element_line(colour='black'))
+
+###Data found in the following links:
+#https://www.mensjournal.com/gear/nike-react-infinity-run-shoe/
+#https://www.dickpondathletics.com/react-infinity-run-flyknit/ (this was the outcomes - super hard to find)
+###comments on data: finding specs were difficult, each had its own way of saying the same thing
+# BCSMRF had an alternative run study... there were other studies similar to this; Ryan et al. 2019_run alternative
