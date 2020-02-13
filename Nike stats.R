@@ -72,8 +72,8 @@ GG=ggplot(Shoe,
   labs(y='Injury (%), N = 226')+
   scale_y_continuous(limits = c(0,.45))+
   guides(fill=F)+
-  scale_fill_manual(values=c('gray70','black','white'))+
-  theme(axis.ticks.x=element_blank(),axis.text.x=element_blank())  
+  scale_fill_manual(values=c('black','white'))
+  #theme(axis.ticks.x=element_blank(),axis.text.x=element_blank())  
 GG+theme(panel.background = element_blank(),axis.line=element_line(colour='black'))
 
 #End
